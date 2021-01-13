@@ -6,6 +6,6 @@ logging.basicConfig(filename='gul.log', filemode='a', format='%(asctime)s,%(msec
 
 gul = os.environ['GUL']
 
-print("GUL:", gul)
+pprint("GUL:", gul)
 
 logging.info('Hello World'
