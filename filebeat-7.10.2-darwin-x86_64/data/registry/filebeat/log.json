@@ -1,0 +1,16 @@
+{"op":"set","id":1}
+{"k":"filebeat::logs::native::8210487-16777221","v":{"id":"native::8210487-16777221","prev_id":"","source":"/Users/Gul.Ali/Documents/HelloWorld/gul.log","offset":0,"timestamp":[289848000,1611138460],"ttl":-1,"FileStateOS":{"inode":8210487,"device":16777221},"type":"log","identifier_name":"native"}}
+{"op":"set","id":2}
+{"k":"filebeat::logs::native::8210487-16777221","v":{"source":"/Users/Gul.Ali/Documents/HelloWorld/gul.log","timestamp":[786437000,1611138462],"ttl":-1,"identifier_name":"native","id":"native::8210487-16777221","prev_id":"","offset":1524,"type":"log","FileStateOS":{"inode":8210487,"device":16777221}}}
+{"op":"set","id":3}
+{"k":"filebeat::logs::native::8210487-16777221","v":{"prev_id":"","source":"/Users/Gul.Ali/Documents/HelloWorld/gul.log","type":"log","ttl":-1,"FileStateOS":{"inode":8210487,"device":16777221},"identifier_name":"native","id":"native::8210487-16777221","offset":1524,"timestamp":[786437000,1611138462]}}
+{"op":"set","id":4}
+{"k":"filebeat::logs::native::8210487-16777221","v":{"prev_id":"","timestamp":[52685000,1611138937],"ttl":-1,"type":"log","identifier_name":"native","id":"native::8210487-16777221","source":"/Users/Gul.Ali/Documents/HelloWorld/gul.log","offset":1524,"FileStateOS":{"device":16777221,"inode":8210487}}}
+{"op":"set","id":5}
+{"k":"filebeat::logs::native::8210487-16777221","v":{"source":"/Users/Gul.Ali/Documents/HelloWorld/gul.log","timestamp":[53739000,1611138937],"FileStateOS":{"inode":8210487,"device":16777221},"identifier_name":"native","id":"native::8210487-16777221","offset":1524,"ttl":-1,"type":"log","prev_id":""}}
+{"op":"set","id":6}
+{"k":"filebeat::logs::native::8210487-16777221","v":{"id":"native::8210487-16777221","type":"log","FileStateOS":{"inode":8210487,"device":16777221},"identifier_name":"native","prev_id":"","source":"/Users/Gul.Ali/Documents/HelloWorld/gul.log","offset":1604,"timestamp":[127142000,1611138939],"ttl":-1}}
+{"op":"set","id":7}
+{"k":"filebeat::logs::native::8210487-16777221","v":{"type":"log","FileStateOS":{"inode":8210487,"device":16777221},"identifier_name":"native","id":"native::8210487-16777221","source":"/Users/Gul.Ali/Documents/HelloWorld/gul.log","timestamp":[187104000,1611139242],"ttl":-1,"prev_id":"","offset":1604}}
+{"op":"set","id":8}
+{"k":"filebeat::logs::native::8210487-16777221","v":{"id":"native::8210487-16777221","prev_id":"","source":"/Users/Gul.Ali/Documents/HelloWorld/gul.log","timestamp":[187104000,1611139242],"ttl":-1,"FileStateOS":{"inode":8210487,"device":16777221},"offset":1604,"type":"log","identifier_name":"native"}}
