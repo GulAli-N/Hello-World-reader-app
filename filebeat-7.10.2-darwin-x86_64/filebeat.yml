@@ -111,7 +111,7 @@ setup.template.enabled: true
 setup.template.settings:
   index.number_of_shards: 1
   _source.enabled: true
-  
+
 # ================================== General ===================================
 
 # The name of the shipper that publishes the network data. It can be used to group
@@ -169,7 +169,7 @@ cloud.id: "test-drive:ZXUtd2VzdC0yLmF3cy5jbG91ZC5lcy5pbyQ2Nzk2YWEzMWNhOTU0OTIyYT
 # `output.elasticsearch.password` settings. The format is `<user>:<pass>`.
 cloud.auth: "kibana-admin:SNpVn9bQe77R%_kL"
 
-# ================================== Outputs ===================================
+# ================================== Outputs ================================
 
 # Configure what output to use when sending the data collected by the beat.
 
@@ -269,4 +269,5 @@ logging.selectors: ["*"]
 
 # This allows to enable 6.7 migration aliases
 #migration.6_to_7.enabled: true
+# Hello
 
