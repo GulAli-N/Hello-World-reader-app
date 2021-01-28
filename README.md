@@ -24,7 +24,7 @@ It was also necessary to install ansible as the reader app was run using a playb
 
 ### What didn't go as planned? 
 
-- I struggled particularly with the filebeat.yml template as there were many factors that had to be tweaked. Also some idiosyncracies to deal with such as code copy pasted from guidance websites that raised errors when running the file, solved by physically re-typing the identical code manually, a tip from another team member.
+- I struggled particularly with the filebeat.yml template as there were many factors that had to be tweaked. Also some idiosyncracies to deal with such as code/copy pasted from guidance websites that raised errors when running the file, solved by physically re-typing the identical code manually, a tip from another team member.
 The filebeat.yml template file settings were also a challenge and I needed assistance from team members to get it set correctly. The use of terraform was also not completely understood and it was not implemented in the final solution. I also didn't manage to get the app to print the contents of the environment variable to the terminal. 
 
 ### Possible improvements for future challenges.
