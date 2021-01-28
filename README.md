@@ -5,7 +5,7 @@
 This 'Hello World' challenge involved the creation of a reader app using python code whose function was to:
 
 1. write verbose log data in the local file system
-2. use ansible to get an environment variable stored in another file
+2. use ansible to retrieve an environment variable stored in another file
 3. verify the environment variable is present and record this in the log file
 
 The data in the log file needed to be accessed by filebeat and connected to an elastic search index and the Elasticsearch index should then be able to create a dashboard in kibana where a visualisation of the data log can be created and stored.
