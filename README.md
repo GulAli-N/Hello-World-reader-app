@@ -8,7 +8,7 @@ This 'Hello World' challenge involved the creation of a reader app using python 
 2. use ansible to retrieve an environment variable stored in another file
 3. verify the environment variable is present and record this in the log file
 
-The data in the log file needed to be accessed by filebeat and connected to an elastic search index and the Elasticsearch index should then be able to create a dashboard in kibana where a visualisation of the data log can be created and stored.
+The data in the log file needed to be accessed by filebeat and connected to an Elasticsearch index that should then be able to create a dashboard in kibana where a visualisation of the data log can be created and stored.
 
 The python code for the Hello World reader app was created using Visual Studio, a GitHub repository was also set up for version control and the app code pushed to the repository.  
 
