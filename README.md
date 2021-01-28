@@ -16,7 +16,7 @@ It was also necessary to install ansible as the reader app was run using a playb
 
 ### How I expected the challenge to go. 
 
-- This challenge was really fulfilling as we had some research to carry out and were free to research in our own way. I expected the challenge to be more complicated than it actually turned out to be. I expected the main premise of the challenge was to be able to utilise tools interdependently including python, ansible, terraform and filebeat, all of them operated from a terminal window. Once set in motion the next stage was to use ElasticSearch to create an index which could be used in a Kibana dashboard to create data visualisations. 
+- This challenge was great fun as we had some research to carry out and were let loose on the internet. I expected the challenge to be more complicated than it actually turned out to be. I expected the main premise of the challenge was to be able to utilise tools interdependently including python, ansible, terraform and filebeat, all of them operated from a terminal window. Once set in motion the next stage was to use ElasticSearch to create an index which could be used in a Kibana dashboard to create data visualisations. 
 
 ### What went well? 
 
